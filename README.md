@@ -21,7 +21,7 @@ Uma aplicação web de galeria de imagens construída com React, utilizando a AP
 ### 📦 Instalação
 - Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/elanealencar/desafio-galeria-de-imagem-frontendfusion.git
 cd seu-repo
 ```
 
@@ -46,6 +46,8 @@ src/
 │   ├── Gallery.jsx
 │   ├── Modal.jsx
 │   └── Filter.jsx
+├── context/
+│   └── FavoritesContext.jsx
 ├── pages/
 │   └── Home.jsx
 ├── App.jsx
