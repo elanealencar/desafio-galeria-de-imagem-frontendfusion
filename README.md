@@ -35,9 +35,6 @@ npm install
 npm run dev
 ```
 
-A aplicação estará disponível em http://localhost:5173
-
-
 ## 🗂️ Estrutura de Pastas
 ```css
 src/
@@ -65,6 +62,8 @@ O layout é responsivo, adaptando-se a diferentes tamanhos de tela (mobile, tabl
 - Título e meta tags otimizadas
 
 ## 📸 Preview
+
+[Acesse o deploy do projeto](https://desafio-galeria-de-imagem.vercel.app/)
 
 ![Preview](public/preview.png)
 ![Preview Modal](public/preview2.png)
