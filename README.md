@@ -66,6 +66,7 @@ O layout é responsivo, adaptando-se a diferentes tamanhos de tela (mobile, tabl
 [Acesse o deploy do projeto](https://desafio-galeria-de-imagem.vercel.app/)
 
 ![Preview](public/preview.png)
+-
 ![Preview Modal](public/preview2.png)
 
 ## Criado por:
